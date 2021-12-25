@@ -1,3 +1,5 @@
 var a = 'hello world!';
 
-console.log(a);
+var version = 'v.10'
+
+console.log(a, version);
