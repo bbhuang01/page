@@ -1,3 +1,5 @@
 var a = 'hello world!';
 
-console.log(a);
+var version = 'v1.1';
+
+console.log(a, version);
