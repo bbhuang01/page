@@ -1,5 +1,6 @@
 var a = 'hello world!';
 
-var version = 'v.10'
+var version1 = 'v.10'
+var version2 = 'v1.1';
 
-console.log(a, version);
+console.log(a, version1, version2);
